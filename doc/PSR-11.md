@@ -37,8 +37,8 @@ has принимает один уникальный параметр: иден�
 # 3. Интерфейсы
 
 ## 3.1. Psr\Container\ContainerInterface
-PHP
-```
+
+``` PHP
 <?php
 namespace Psr\Container;
 
@@ -80,8 +80,8 @@ interface ContainerInterface
 
 
 ## 3.2. Psr\Container\ContainerExceptionInterface
-PHP
-```
+
+``` PHP
 <?php
 namespace Psr\Container;
 
@@ -94,8 +94,8 @@ interface ContainerExceptionInterface
 ```
 
 ##3.3. Psr\Container\NotFoundExceptionInterface
-PHP
-```
+
+``` PHP
 <?php
 namespace Psr\Container;
 
