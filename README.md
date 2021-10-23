@@ -1,3 +1,3 @@
 # first-lab-work
 VB-3166/b
-PSR-3 Zakharov
+Захаров PSR-3
