@@ -94,7 +94,9 @@ interface ContainerExceptionInterface
 ```
 
 ##3.3. Psr\Container\NotFoundExceptionInterface
-```<?php
+PHP
+```
+<?php
 namespace Psr\Container;
 
 /**
