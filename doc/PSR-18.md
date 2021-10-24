@@ -1,5 +1,5 @@
 # PSR-18: HTTP Client
-**PSR-18** описывает общие интерфейсы для **отправки PSR-7 HTTP-запросов** и **получения HTTP-ответов.**
+PSR-18 описывает общие интерфейсы для отправки PSR-7 HTTP-запросов и получения HTTP-ответов.
 
 *ClientInterface, RequestExceptionInterface и NetworkExceptionInterface*
 
